@@ -1,2 +1,2 @@
 # Bubble-sort
-Bubble sort on Python
+Bubble sort on Python for school
